@@ -1,0 +1,14 @@
+.main {
+    border: 1px solid rgb(61, 61, 61);
+    padding: 10px;
+    margin: 5px;
+}
+
+.main {
+    grid-area: m;
+}
+
+.section {
+    padding: 10px;
+    margin: 5px;
+}
